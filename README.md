@@ -1,6 +1,4 @@
-# 多进程 geneBody_coverage.py for RSeQC
-
-## 英文版 (English)
+# Multi-process-geneBody_coverage.py for RSeQC （much faster！）
 
 ### Introduction
 
